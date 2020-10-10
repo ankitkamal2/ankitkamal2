@@ -9,10 +9,10 @@
   <a href="https://twitter.com/ankitkamal" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/twitter.svg" height="27" width="38" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<!---<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ankitkamal2&layout=compact&theme=dark" />
-</a>
+</a>--->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ankitkamal2&show_icons=true&include_all_commits=true&theme=dark" alt="Ankit's GitHub stats" />
 </a>
