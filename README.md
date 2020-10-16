@@ -10,6 +10,8 @@
   <a href="https://www.linkedin.com/in/ankit-kamal-b571111b" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/icons/linkedin.png" height="27" width="31"></a>
 </p>
 <p align="center">
+  <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arshsaxena&layout=compact&theme=dark">
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ankitkamal2&show_icons=true&include_all_commits=true&theme=dark" alt="Ankit's GitHub stats" />
 </a>
