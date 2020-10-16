@@ -18,5 +18,4 @@
  <br><br>
   <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" />
     <br>
-  <img align="center" height="40" src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png">
 </p>
