@@ -4,13 +4,13 @@
 <br>
 💬<b>Skills: </b>
 <ul>
-<li>
-<b>• Tools & Technologies: </b>C++, C, Java, Linux, Unix, and ClearCase.
-<br>
-<b>• Industry Knowledge: </b>Voice over IP (VoIP), Telecommunications, Session Initiation Protocol (SIP), Testing, Internet Protocol Suite (TCP/IP), Agile Methodologies, Integration, Software Design, Multithreading, SS7, and Software Development.
-<br>
-<b>• Other: </b>SNMP, Wireshark, H.323, Networking, PgSQL, CVS, TCP/UDP, and SBC.
-</li>
+<li><b>Tools & Technologies: </b>C++, C, Java, Linux, Unix, and ClearCase.</li>
+</ul>
+<ul>
+<li><b>Industry Knowledge: </b>Voice over IP (VoIP), Telecommunications, Session Initiation Protocol (SIP), Testing, Internet Protocol Suite (TCP/IP), Agile Methodologies, Integration, Software Design, Multithreading, SS7, and Software Development.
+</ul>
+<ul>
+</li><b>Other: </b>SNMP, Wireshark, H.323, Networking, PgSQL, CVS, TCP/UDP, and SBC.</li>
 </ul>
 </p>
 <br>
