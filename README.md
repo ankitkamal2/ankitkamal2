@@ -1,6 +1,13 @@
 <h1 align="center">Namaste.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm Ankit, an advance coder.</h3>
-<p align="center">🌱 I’m currently learning C++ advance.</p>
+<p align="center">🌱 I’m currently learning C++ advance.
+<br>
+<b>Skills: </b>
+<ul>
+<b>Industry Knowledge</b><br>
+<li>VoIP</li>
+</ul>
+</p>
 <br>
 <p align="center">
   <a href="mailto:ankitkamal2@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/d2a0b844ce50067559feb078c6d458ada1b8c101/icons/gmail.svg" height="32" width="44" /></a>
