@@ -4,13 +4,12 @@
 <br>
 <b>Skills: </b>
 <ul>
-<b>Industry Knowledge</b><br>
-<li>VoIP</li>
+<li><b>Tools & Technologies: </b>C++, C, Java, and ClearCase.</li>
 </ul>
 <ul>
-<b>Industry Knowledge</b><br>
-<li>VoIP</li>
+<li><b>Industry Knowledge: </b>Voice over IP (VoIP), Telecommunications, Session Initiation Protocol (SIP), Testing, Internet Protocol Suite (TCP/IP), Agile Methodologies, Integration, Software Design, Multithreading, SS7, and Software Development.</li>
 </ul>
+<li><b>Other: </b>SNMP, Wireshark, H.323, Networking, PgSQL, CVS, TCP/UDP, and SBC.</li>
 </p>
 <br>
 <p align="center">
