@@ -2,9 +2,9 @@
 <h3 align="center">I'm Ankit, an advance coder.</h3>
 <p align="center">🌱 I’m currently learning C++ advance.
 <br>
-<b>Skills: </b>
+💬<b>Skills: </b>
 <ul>
-<li><b>Tools & Technologies: </b>C++, C, Java, and ClearCase.</li>
+<li><b>Tools & Technologies: </b>C++, C, Java, Linux, Unix, and ClearCase.</li>
 </ul>
 <ul>
 <li><b>Industry Knowledge: </b>Voice over IP (VoIP), Telecommunications, Session Initiation Protocol (SIP), Testing, Internet Protocol Suite (TCP/IP), Agile Methodologies, Integration, Software Design, Multithreading, SS7, and Software Development.</li>
