@@ -9,6 +9,7 @@
 <ul>
 <li><b>Industry Knowledge: </b>Voice over IP (VoIP), Telecommunications, Session Initiation Protocol (SIP), Testing, Internet Protocol Suite (TCP/IP), Agile Methodologies, Integration, Software Design, Multithreading, SS7, and Software Development.</li>
 </ul>
+<ul>
 <li><b>Other: </b>SNMP, Wireshark, H.323, Networking, PgSQL, CVS, TCP/UDP, and SBC.</li>
 </ul>
 </p>
