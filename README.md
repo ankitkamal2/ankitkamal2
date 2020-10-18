@@ -2,7 +2,7 @@
 <h3 align="center">I'm Ankit, an advance coder.</h3>
 <p align="center">🌱 I’m currently learning C++ advance.
 <br>
-💬<b>Skills: </b>
+💬 <b>Skills: </b>
 <ul>
 <li><b>Tools & Technologies: </b>C++, C, Java, Linux, Unix, and ClearCase.</li>
 </ul>
