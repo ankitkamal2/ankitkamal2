@@ -7,6 +7,10 @@
 <b>Industry Knowledge</b><br>
 <li>VoIP</li>
 </ul>
+<ul>
+<b>Industry Knowledge</b><br>
+<li>VoIP</li>
+</ul>
 </p>
 <br>
 <p align="center">
