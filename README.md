@@ -4,13 +4,13 @@
 <br>
 💬 <b>Skills: </b>
 <ul>
-<li><b>Tools & Technologies: </b>C++, C, Java, Linux, Unix, and ClearCase.</li>
+<li align="justify"><b>Tools & Technologies: </b>C++, C, Java, Linux, Unix, and ClearCase.</li>
 </ul>
 <ul>
-<li><b>Industry Knowledge: </b>Voice over IP (VoIP), Telecommunications, Session Initiation Protocol (SIP), Testing, Internet Protocol Suite (TCP/IP), Agile Methodologies, Integration, Software Design, Multithreading, SS7, and Software Development.
+<li align="justify"><b>Industry Knowledge: </b>Voice over IP (VoIP), Telecommunications, Session Initiation Protocol (SIP), Testing, Internet Protocol Suite (TCP/IP), Agile Methodologies, Integration, Software Design, Multithreading, SS7, and Software Development.
 </ul>
 <ul>
-<li><b>Other: </b>SNMP, Wireshark, H.323, Networking, PgSQL, CVS, TCP/UDP, and SBC.</li>
+<li align="justify"><b>Other: </b>SNMP, Wireshark, H.323, Networking, PgSQL, CVS, TCP/UDP, and SBC.</li>
 </ul>
 </p>
 <br>
@@ -30,6 +30,6 @@
   <img align="center" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ankitkamal2&show_icons=true&include_all_commits=true&theme=dark" alt="Ankit's GitHub stats" />
 </a>
  <br><br>
-  <img src="https://profile-counter.glitch.me/arshsaxena/count.svg" /><br>
+  <img src="https://profile-counter.glitch.me/ankitkamal2/count.svg" /><br>
   <img src="https://raw.githubusercontent.com/arshsaxena/arshsaxena/main/images/india.png" height="40" />
 </p>
