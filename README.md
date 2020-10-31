@@ -4,7 +4,7 @@
 <br>
 💬 <b>Skills: </b>
 <ul>
-<li align="justify"><b>Tools and Technologies: </b>C++, C, Java, Linux, Unix, and ClearCase.</li>
+<li align="justify"><b>Tools & Technologies: </b>C++, C, Java, Linux, Unix, and ClearCase.</li>
 </ul>
 <ul>
 <li align="justify"><b>Industry Knowledge: </b>Voice over IP (VoIP), Telecommunications, Session Initiation Protocol (SIP), Testing, Internet Protocol Suite (TCP/IP), Agile Methodologies, Integration, Software Design, Multithreading, SS7, and Software Development.
